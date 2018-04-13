@@ -1,0 +1,104 @@
+{
+  "name": "hiltedge-login-ui-rn",
+  "version": "0.2.2",
+  "description": "Edge login UI components, as a React Native library",
+  "keywords": [
+    "Airbitz",
+    "Edge",
+    "bitcoin",
+    "blockchain",
+    "ethereum",
+    "key management",
+    "security"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "Airbitz, Inc.",
+  "files": [
+    "src/assets/**",
+    "src/common/**",
+    "src/native/**",
+    "ios/**",
+    "android/**"
+  ],
+  "main": "src/native/index.js",
+  "dependencies": {
+    "material-ui": "^0.20.0",
+    "moment": "~2.14.1",
+    "native-base": "^2.3.9",
+    "react-native-keyboard-aware-scroll-view": "^0.4.1",
+    "react-native-linear-gradient": "^2.0.0",
+    "react-native-mail": "^3.0.5",
+    "react-native-material-textfield": "git://github.com/Airbitz/react-native-material-textfield.git",
+    "react-native-modal": "^4.1.0",
+    "react-native-qrcode": "^0.2.6",
+    "react-native-vector-icons": "^4.4.2",
+    "react-redux": "~4.4.5",
+    "redux": "~3.5.2",
+    "redux-thunk": "~2.1.0",
+    "sprintf-js": "^1.0.3",
+    "zxcvbn": "^4.4.2"
+  },
+  "devDependencies": {
+    "edge-login": "^0.5.6",
+    "flow-bin": "^0.66.0"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "rnpm": {
+    "assets": [
+      "./src/assets/fonts"
+    ]
+  },
+  "react-native": {
+    "zlib": "browserify-zlib",
+    "console": "console-browserify",
+    "constants": "constants-browserify",
+    "crypto": "react-native-crypto",
+    "dns": "dns.js",
+    "net": "react-native-tcp",
+    "domain": "domain-browser",
+    "http": "react-native-http",
+    "https": "https-browserify",
+    "os": "os-browserify",
+    "path": "path-browserify",
+    "querystring": "querystring-es3",
+    "fs": "react-native-level-fs",
+    "_stream_transform": "readable-stream/transform",
+    "_stream_readable": "readable-stream/readable",
+    "_stream_writable": "readable-stream/writable",
+    "_stream_duplex": "readable-stream/duplex",
+    "_stream_passthrough": "readable-stream/passthrough",
+    "dgram": "react-native-udp",
+    "stream": "stream-browserify",
+    "timers": "timers-browserify",
+    "tty": "tty-browserify",
+    "vm": "vm-browserify"
+  },
+  "browser": {
+    "zlib": "browserify-zlib",
+    "console": "console-browserify",
+    "constants": "constants-browserify",
+    "crypto": "react-native-crypto",
+    "dns": "dns.js",
+    "net": "react-native-tcp",
+    "domain": "domain-browser",
+    "http": "react-native-http",
+    "https": "https-browserify",
+    "os": "os-browserify",
+    "path": "path-browserify",
+    "querystring": "querystring-es3",
+    "fs": "react-native-level-fs",
+    "_stream_transform": "readable-stream/transform",
+    "_stream_readable": "readable-stream/readable",
+    "_stream_writable": "readable-stream/writable",
+    "_stream_duplex": "readable-stream/duplex",
+    "_stream_passthrough": "readable-stream/passthrough",
+    "dgram": "react-native-udp",
+    "stream": "stream-browserify",
+    "timers": "timers-browserify",
+    "tty": "tty-browserify",
+    "vm": "vm-browserify"
+  }
+}
