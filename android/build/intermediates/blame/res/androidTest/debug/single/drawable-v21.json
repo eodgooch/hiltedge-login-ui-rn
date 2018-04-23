@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/aaron/.android/build-cache/96956244d6f5e6c850940fcd481e04cdacad9246/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/drawable-v21/md_btn_shape.xml",
+        "source": "/Users/aaron/.android/build-cache/4011f09f1bba9ff74d2aa209f4eb5b9781ccabbc/output/res/drawable-v21/md_btn_shape.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/aaron/.android/build-cache/96956244d6f5e6c850940fcd481e04cdacad9246/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/drawable-v21/md_btn_selector_ripple_dark.xml",
+        "source": "/Users/aaron/.android/build-cache/4011f09f1bba9ff74d2aa209f4eb5b9781ccabbc/output/res/drawable-v21/md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/aaron/.android/build-cache/96956244d6f5e6c850940fcd481e04cdacad9246/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/drawable-v21/md_btn_selector_ripple.xml",
+        "source": "/Users/aaron/.android/build-cache/4011f09f1bba9ff74d2aa209f4eb5b9781ccabbc/output/res/drawable-v21/md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/aaron/.android/build-cache/e2919a399cc461fac4e20beb97d91183f2c2074b/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

@@ -10,10 +10,12 @@ buildscript {
 
     dependencies {
         classpath 'com.android.tools.build:gradle:2.3.0'
+        classpath 'me.tatarka:gradle-retrolambda:3.7.0'
     }
 }
 
 apply plugin: 'com.android.library'
+apply plugin: 'me.tatarka.retrolambda'
 
 android {
     compileSdkVersion 27
@@ -43,6 +45,7 @@ repositories {
         url 'https://maven.google.com/'
         name 'Google'
     }
+    jcenter()
 }
 
 dependencies {

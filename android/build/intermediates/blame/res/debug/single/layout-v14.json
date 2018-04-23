@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
+        "source": "/Users/aaron/.android/build-cache/4011f09f1bba9ff74d2aa209f4eb5b9781ccabbc/output/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate.xml",
+        "source": "/Users/aaron/.android/build-cache/4011f09f1bba9ff74d2aa209f4eb5b9781ccabbc/output/res/layout-v14/md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/debug/layout-v14/md_stub_progress.xml",
+        "source": "/Users/aaron/.android/build-cache/4011f09f1bba9ff74d2aa209f4eb5b9781ccabbc/output/res/layout-v14/md_stub_progress.xml"
+    }
+]

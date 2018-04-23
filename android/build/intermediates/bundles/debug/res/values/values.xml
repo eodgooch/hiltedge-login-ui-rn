@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_text_hint">#990C578C</color>
+    <color name="semi_black_text">#FF505050</color>
+    <color name="warning_color">#f4511e</color>
+    <string name="fingerprint_confirm_to_continue">Confirm fingerprint to continue</string>
+    <string name="fingerprint_hint">Touch sensor</string>
+    <string name="fingerprint_not_recognized">Fingerprint not recognized. Try again.</string>
+    <string name="fingerprint_signin">Sign In User: %1$s</string>
+    <string name="fingerprint_success">Fingerprint recognized</string>
+</resources>

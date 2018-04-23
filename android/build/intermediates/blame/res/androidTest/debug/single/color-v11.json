@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/aaron/.android/build-cache/96956244d6f5e6c850940fcd481e04cdacad9246/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/aaron/.android/build-cache/96956244d6f5e6c850940fcd481e04cdacad9246/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

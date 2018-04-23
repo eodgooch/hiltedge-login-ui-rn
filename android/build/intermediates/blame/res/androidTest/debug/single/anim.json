@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/Users/aaron/.android/build-cache/96956244d6f5e6c850940fcd481e04cdacad9246/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/aaron/.android/build-cache/96956244d6f5e6c850940fcd481e04cdacad9246/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/anim/decelerate_cubic.xml",
+        "source": "/Users/aaron/.android/build-cache/4011f09f1bba9ff74d2aa209f4eb5b9781ccabbc/output/res/anim/decelerate_cubic.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/aaron/.android/build-cache/96956244d6f5e6c850940fcd481e04cdacad9246/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/anim/tooltip_exit.xml",
+        "source": "/Users/aaron/.android/build-cache/96956244d6f5e6c850940fcd481e04cdacad9246/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/aaron/.android/build-cache/96956244d6f5e6c850940fcd481e04cdacad9246/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/anim/popup_enter.xml",
+        "source": "/Users/aaron/.android/build-cache/4011f09f1bba9ff74d2aa209f4eb5b9781ccabbc/output/res/anim/popup_enter.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/aaron/.android/build-cache/96956244d6f5e6c850940fcd481e04cdacad9246/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/aaron/.android/build-cache/47ab9a3cfd580cba306688d6a32eafb2a411a7b8/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/aaron/.android/build-cache/96956244d6f5e6c850940fcd481e04cdacad9246/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/aaron/.android/build-cache/96956244d6f5e6c850940fcd481e04cdacad9246/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/Users/aaron/.android/build-cache/96956244d6f5e6c850940fcd481e04cdacad9246/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/aaron/.android/build-cache/96956244d6f5e6c850940fcd481e04cdacad9246/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/aaron/.android/build-cache/47ab9a3cfd580cba306688d6a32eafb2a411a7b8/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/aaron/.android/build-cache/96956244d6f5e6c850940fcd481e04cdacad9246/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/anim/tooltip_enter.xml",
+        "source": "/Users/aaron/.android/build-cache/96956244d6f5e6c850940fcd481e04cdacad9246/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/aaron/workspace/edge-login-ui-rn/android/build/intermediates/res/merged/androidTest/debug/anim/popup_exit.xml",
+        "source": "/Users/aaron/.android/build-cache/4011f09f1bba9ff74d2aa209f4eb5b9781ccabbc/output/res/anim/popup_exit.xml"
+    }
+]
