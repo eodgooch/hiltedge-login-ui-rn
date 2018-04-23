@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/aaron/workspace/edge-login-ui-rn/android/src/main/assets"/><source path="/Users/aaron/workspace/edge-login-ui-rn/android/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/aaron/workspace/edge-login-ui-rn/android/src/release/assets"/></dataSet></merger>
