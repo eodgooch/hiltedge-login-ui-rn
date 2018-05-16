@@ -77,12 +77,12 @@ const TertiaryButtonUpStyle = {
   alignItems: 'center',
   justifyContent: 'space-around',
   borderRadius: hs(3),
-  borderColor: Constants.ACCENT_GOLD,
+  borderColor: Constants.ACCENT_MAROON,
   borderWidth: Constants.BUTTON_BORDER_STROKE
 }
 
 const TertiaryButtonTextUpStyle = {
-  color: Constants.ACCENT_GOLD,
+  color: Constants.ACCENT_MAROON,
   fontSize: 22,
   fontFamily: Constants.FONTS.fontFamilyRegular,
   width: '100%',
@@ -90,13 +90,13 @@ const TertiaryButtonTextUpStyle = {
 }
 
 const TertiaryButtonDownStyle = {
-  backgroundColor: Constants.ACCENT_GOLD,
+  backgroundColor: Constants.ACCENT_MAROON,
   width: Constants.BUTTON_WIDTH_1,
   height: Constants.BUTTON_HEIGHT,
   alignItems: 'center',
   justifyContent: 'space-around',
   borderRadius: hs(3),
-  borderColor: Constants.ACCENT_GOLD,
+  borderColor: Constants.ACCENT_MAROON,
   borderWidth: Constants.BUTTON_BORDER_STROKE
 }
 

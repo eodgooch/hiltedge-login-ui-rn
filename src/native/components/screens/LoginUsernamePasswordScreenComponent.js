@@ -159,12 +159,8 @@ export default class LandingScreenComponent extends Component {
         keyboardShouldPersistTaps={Constants.ALWAYS}
         contentContainerStyle={this.style.mainScrollView}
       >
-        <BackgroundImage
-          src={Assets.LOGIN_BACKGROUND}
-          style={this.style.backgroundImage}
-          content={this.renderOverImage()}
-          callback={this.noFocus}
-        />
+      {this.renderOverImage()}
+
       </KeyboardAwareScrollView>
     )
   }

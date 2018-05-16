@@ -9,11 +9,7 @@ export default class LandingScreenComponent extends Component {
     const { LandingScreenStyle } = this.props.styles
     return (
       <View style={LandingScreenStyle.container}>
-        <BackgroundImage
-          src={Assets.LOGIN_BACKGROUND}
-          style={LandingScreenStyle.backgroundImage}
-          content={this.renderOverImage()}
-        />
+        this.renderOverImage()
       </View>
     )
   }

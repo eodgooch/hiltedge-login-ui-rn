@@ -1,16 +1,17 @@
-export const GR_DARK = '#0D2145'
-export const GR_LIGHT = '#0E4B75'
-export const PRIMARY = '#0D2145'
-export const SECONDARY = '#0E4B75'
+export const GR_DARK = '#121212'
+export const GR_LIGHT = '#121212'
+export const PRIMARY = '#121212'
+export const SECONDARY = '#B30857'
 export const ACCENT_GREEN = '#0073D9'
 export const ACCENT_ORANGE = '#f6af19'
 export const ACCENT_RED = '#E85466'
 export const ACCENT_GOLD = '#eca632'
+export const ACCENT_MAROON = '#B30857'
 export const GRAY_1 = '#4A5157'
 export const GRAY_2 = '#87939E'
 export const GRAY_3 = '#D9E3ED'
 export const GRAY_4 = '#F4F5F6'
-export const BLACK = '#25292C'
+export const BLACK = '#121212'
 export const WHITE = '#FFFFFF'
 
 export const BUTTON_PRIMARY_UP = '#0E4B75'
@@ -26,7 +27,7 @@ export const BUTTON_TERTIARY_DOWN_OUTLINE = '#000222'
 
 export const MODAL_DROP = '#FFFFFF'
 export const OVERLAY_BOX = 'rgba(255,255,255,.6)'
-export const MODAL_BOX = 'rgba(0,0,0,.6)'
+export const MODAL_BOX = 'rgba(255,255,255,.6)'
 export const TRANSPARENT = 'transparent'
-export const GRADIENT = ['#000222', '#000222']
-export const GRADIENT_REVERSE = ['#000222', '#000222']
+export const GRADIENT = ['#121212', '#121212']
+export const GRADIENT_REVERSE = ['#121212', '#121212']

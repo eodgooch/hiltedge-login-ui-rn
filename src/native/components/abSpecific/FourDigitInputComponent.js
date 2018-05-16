@@ -38,7 +38,7 @@ class FourDigitInputComponent extends Component {
     }
     this._keyboardDidShow = () => {
       this.setState({
-        circleColor: Constants.ACCENT_ORANGE
+        circleColor: Constants.ACCENT_MAROON
       })
     }
     this._keyboardDidHide = () => {

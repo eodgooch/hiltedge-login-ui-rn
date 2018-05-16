@@ -4,7 +4,8 @@ import * as Colors from '../../../common/constants/Colors.js'
 const FourDotInputStyle = {
   container: {
     width: '100%',
-    height: 60
+    height: 60,
+    marginTop: 20
   },
   interactiveContainer: {
     flex: 1,
@@ -20,7 +21,7 @@ const FourDotInputStyle = {
   },
   dotContainer: {
     height: '100%',
-    width: 190,
+    width: 130,
     flexDirection: 'row',
     justifyContent: 'space-between'
   },
@@ -38,18 +39,18 @@ const FourDotInputStyle = {
   },
   circle: {
     borderWidth: 2,
-    borderColor: Colors.WHITE,
+    borderColor: Colors.GRAY_2,
     borderRadius: 15,
-    height: 30,
-    width: 30
+    height: 20,
+    width: 20
   },
   circleSected: {
-    backgroundColor: Colors.ACCENT_GOLD,
-    borderWidth: 2,
-    borderColor: Colors.WHITE,
+    backgroundColor: Colors.ACCENT_MAROON,
+    borderWidth: 1,
+    borderColor: Colors.ACCENT_MAROON,
     borderRadius: 15,
-    height: 30,
-    width: 30
+    height: 20,
+    width: 20
   }
 }
 const FourDotInputDarkStyle = {
@@ -95,7 +96,7 @@ const FourDotInputDarkStyle = {
   },
   circleSected: {
     backgroundColor: Colors.SECONDARY,
-    borderWidth: 2,
+    borderWidth: 1,
     borderColor: Colors.PRIMARY,
     borderRadius: 15,
     height: 30,
