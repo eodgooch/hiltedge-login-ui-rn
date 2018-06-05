@@ -16,7 +16,7 @@ const NewAccountReviewScreenStyle = {
   },
   instructionsText: {
     fontSize: 16,
-    color: Constants.GRAY_1,
+    color: Constants.GRAY_2,
     fontFamily: Constants.FONTS.fontFamilyRegular,
     textAlign: 'center'
   },
@@ -51,7 +51,7 @@ const NewAccountReviewScreenStyle = {
       fontSize: Constants.FONTS.defaultFontSize,
       textAlign: 'center',
       fontFamily: Constants.FONTS.fontFamilyRegular,
-      color: Constants.GRAY_1
+      color: Constants.GRAY_2
     },
     iconWrapBottom: {
       position: 'relative',
