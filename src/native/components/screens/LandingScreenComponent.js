@@ -23,7 +23,7 @@ export default class LandingScreenComponent extends Component {
             <View style={LandingScreenStyle.featureBoxDescription}>
               <Text style={LandingScreenStyle.tagText}>
                 {
-                  'The secure and easy to use wallet for your blockchain assets and tokens'
+                  'The easiest and cheapest way to buy and sell Cryptocurrency using cash'
                 }
               </Text>
             </View>
@@ -31,7 +31,7 @@ export default class LandingScreenComponent extends Component {
           <View style={LandingScreenStyle.featureBoxButtons}>
             <Button
               onPress={this.onStartCreate.bind(this)}
-              label={'Create account'}
+              label={'Create account and unlock your Hilt Club membership benefits'}
               downStyle={LandingScreenStyle.createButton.downStyle}
               downTextStyle={LandingScreenStyle.createButton.downTextStyle}
               upStyle={LandingScreenStyle.createButton.upStyle}

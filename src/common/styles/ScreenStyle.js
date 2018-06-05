@@ -4,7 +4,7 @@ const ScreenStyle = {
   flex: 1,
   width: '100%',
   height: '100%',
-  backgroundColor: Colors.BLACK
+  backgroundColor: Colors.PRIMARY
 }
 
 const ScreenRow = {

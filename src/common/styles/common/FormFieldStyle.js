@@ -91,7 +91,7 @@ const MaterialInputOnWhite = {
   baseColor: Constants.PRIMARY,
   tintColor: Constants.SECONDARY,
   errorColor: Constants.ACCENT_RED,
-  textColor: Constants.BLACK,
+  textColor: Constants.WHITE,
   affixTextStyle: {
     color: Constants.ACCENT_RED,
     fontFamily: Constants.FONTS.fontFamilyRegular

@@ -177,6 +177,7 @@ export default class LandingScreenComponent extends Component {
       <TouchableWithoutFeedback onPress={this.noFocus}>
         <View style={this.style.featureBox}>
           <LogoImageHeader style={this.style.logoHeader} />
+          <View style={this.style.shim} />
           {this.renderUsername(this.style)}
           <View style={this.style.shimTiny} />
           <FormField
