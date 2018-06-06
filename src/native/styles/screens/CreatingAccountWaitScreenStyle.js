@@ -44,7 +44,7 @@ const CreatingAccountWaitScreenStyle = {
   bodyText: {
     fontSize: 14,
     fontFamily: Constants.FONTS.fontFamilyRegular,
-    color: Colors.GRAY_2
+    color: Colors.GRAY_3
   }
 }
 
