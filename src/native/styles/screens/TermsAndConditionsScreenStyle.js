@@ -10,14 +10,15 @@ const TermsAndConditionsScreenStyle = {
     alignItems: 'center'
   },
   instructionsContainer: {
-    height: 100,
+    height: 70,
     alignItems: 'center',
     justifyContent: 'space-around'
   },
   instructionsText: {
     fontSize: 14,
     fontFamily: Constants.FONTS.fontFamilyRegular,
-    textAlign: 'center'
+    textAlign: 'center',
+    color: Constants.GRAY_3
   },
   instructionsSubShim: {
     height: 20
@@ -27,20 +28,23 @@ const TermsAndConditionsScreenStyle = {
     textAlign: 'center',
     width: '80%',
     paddingHorizontal: 35,
+    color: Constants.PRIMARY,
     fontFamily: Constants.FONTS.fontFamilyRegular
   },
   midSection: {
-    height: 250
+    height: 320
   },
   buttonContainer: {
-    height: 100,
-    alignItems: 'center'
+    height: 140,
+    alignItems: 'center',
+    backgroundColor: Constants.GRAY_3
   },
   checkboxContainer: {
     width: '80%',
     marginBottom: 20
   },
-  shim: { ...Styles.shim, height: 10 },
+  shim: { ...Styles.Shim, height: 10 },
+  bigshim: { ...Styles.Shim, height: 70 },
   checkboxes: MultiLineTextCheckBox,
   nextButton: {
     upStyle: { ...Styles.PrimaryButtonUpStyle, width: 240 },

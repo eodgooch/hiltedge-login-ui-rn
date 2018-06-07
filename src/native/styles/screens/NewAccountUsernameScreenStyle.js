@@ -23,7 +23,7 @@ const NewAccountUsernameScreenStyle = {
   instructionsText: {
     fontSize: Constants.FONTS.defaultFontSize,
     fontFamily: Constants.FONTS.fontFamilyRegular,
-    color: Constants.GRAY_1,
+    color: Constants.GRAY_3,
     textAlign: 'center',
     paddingTop: 20,
     paddingBottom: 20

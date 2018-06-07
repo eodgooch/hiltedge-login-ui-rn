@@ -1,6 +1,5 @@
 import * as Constants from '../../common/constants'
 
-// TODO link terms
 const titleOne =
   'I understand that my funds are held securely on this device, not by Hilt'
 const titleTwo =
@@ -8,9 +7,9 @@ const titleTwo =
 const titleThree =
   'I understand that if I lose my username and password, Hilt will not be able to recover my account, unless I setup password recovery'
 const titleFour =
-  `I understand and agree to Hilt's <a href="https://www.hiltventures.com/privacy-policy">Privacy Policy</a>.`
+  `I understand and agree to Hilt's Privacy Policy at https://www.hiltventures.com/privacy-policy.`
 const titleFive =
-  `I understand and agree to Hilt's terms of service.`
+  `I understand and agree to Hilt's terms of service at https://www.hiltventure.com/terms-of-service.`
 const initialState = {
   items: [
     { title: titleOne, value: false },

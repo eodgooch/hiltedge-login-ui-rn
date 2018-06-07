@@ -108,6 +108,44 @@ const TertiaryButtonTextDownStyle = {
   textAlign: 'center'
 }
 
+const ExtremeTertiaryButtonUpStyle = {
+  backgroundColor: Constants.TRANSPARENT,
+  width: Constants.EXTREME_BUTTON_WIDTH_1,
+  height: Constants.EXTREME_BUTTON_HEIGHT,
+  alignItems: 'center',
+  justifyContent: 'space-around',
+  borderRadius: hs(3),
+  borderColor: Constants.ACCENT_MAROON,
+  borderWidth: Constants.BUTTON_BORDER_STROKE
+}
+
+const ExtremeTertiaryButtonTextUpStyle = {
+  color: Constants.ACCENT_MAROON,
+  fontSize: 22,
+  fontFamily: Constants.FONTS.fontFamilyRegular,
+  width: '100%',
+  textAlign: 'center'
+}
+
+const ExtremeTertiaryButtonDownStyle = {
+  backgroundColor: Constants.ACCENT_MAROON,
+  width: Constants.BUTTON_WIDTH_1,
+  height: Constants.EXTREME_BUTTON_HEIGHT,
+  alignItems: 'center',
+  justifyContent: 'space-around',
+  borderRadius: hs(3),
+  borderColor: Constants.ACCENT_MAROON,
+  borderWidth: Constants.BUTTON_BORDER_STROKE
+}
+
+const ExtremeTertiaryButtonTextDownStyle = {
+  color: Constants.PRIMARY,
+  fontSize: 22,
+  fontFamily: Constants.FONTS.fontFamilyRegular,
+  width: '100%',
+  textAlign: 'center'
+}
+
 const TextOnlyButtonUpStyle = {
   backgroundColor: Constants.TRANSPARENT,
   padding: 10
@@ -255,6 +293,10 @@ export { TertiaryButtonUpStyle }
 export { TertiaryButtonTextUpStyle }
 export { TertiaryButtonDownStyle }
 export { TertiaryButtonTextDownStyle }
+export { ExtremeTertiaryButtonUpStyle }
+export { ExtremeTertiaryButtonTextUpStyle }
+export { ExtremeTertiaryButtonDownStyle }
+export { ExtremeTertiaryButtonTextDownStyle }
 export { TextOnlyButtonUpStyle }
 export { TextOnlyButtonTextUpStyle }
 export { TextOnlyButtonDownStyle }

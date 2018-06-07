@@ -73,7 +73,7 @@ const MaterialInputWithDrop = {
       underlayColor: Constants.TRANSPARENT
     },
     text: {
-      color: Constants.PRIMARY,
+      color: Constants.SECONDARY,
       backgroundColor: Constants.TRANSPARENT,
       fontFamily: Constants.FONTS.fontFamilyRegular,
       marginLeft: 8,
@@ -88,16 +88,16 @@ const MaterialInputOnWhite = {
     width: Constants.LOGIN_LABEL_WIDTH,
     height: Constants.LOGIN_LABEL_HEIGHT
   },
-  baseColor: Constants.PRIMARY,
+  baseColor: Constants.WHITE,
   tintColor: Constants.SECONDARY,
   errorColor: Constants.ACCENT_RED,
   textColor: Constants.WHITE,
   affixTextStyle: {
-    color: Constants.ACCENT_RED,
+    color: Constants.WHITE,
     fontFamily: Constants.FONTS.fontFamilyRegular
   },
   titleTextStyle: {
-    color: Constants.PRIMARY,
+    color: Constants.ACCENT_RED,
     fontFamily: Constants.FONTS.fontFamilyRegular
   }
 }

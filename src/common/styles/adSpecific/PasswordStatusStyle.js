@@ -48,6 +48,7 @@ const PasswordStatusStyle = {
   checkboxes: BasicCheckBoxWithLabel,
   text: {
     textAlign: 'center',
+    color: Constants.ACCENT_MAROON,
     fontFamily: Constants.FONTS.fontFamilyRegular,
     width: '80%',
     marginLeft: '10%',

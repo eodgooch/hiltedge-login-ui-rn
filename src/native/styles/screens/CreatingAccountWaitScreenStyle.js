@@ -39,7 +39,8 @@ const CreatingAccountWaitScreenStyle = {
   },
   headlineText: {
     fontSize: 17,
-    fontFamily: Constants.FONTS.fontFamilyRegular
+    fontFamily: Constants.FONTS.fontFamilyRegular,
+    color: Constants.GRAY_3
   },
   bodyText: {
     fontSize: 14,

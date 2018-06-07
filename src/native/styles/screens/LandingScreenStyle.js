@@ -51,10 +51,10 @@ const LandingScreenStyle = {
     textAlign: 'center'
   },
   createButton: {
-    upStyle: Styles.TertiaryButtonUpStyle,
-    upTextStyle: Styles.TertiaryButtonTextUpStyle,
-    downTextStyle: Styles.TertiaryButtonTextDownStyle,
-    downStyle: Styles.TertiaryButtonDownStyle
+    upStyle: Styles.ExtremeTertiaryButtonUpStyle,
+    upTextStyle: Styles.ExtremeTertiaryButtonTextUpStyle,
+    downTextStyle: Styles.ExtremeTertiaryButtonTextDownStyle,
+    downStyle: Styles.ExtremeTertiaryButtonDownStyle
   },
   loginButton: {
     upStyle: Styles.TextOnlyButtonUpStyle,

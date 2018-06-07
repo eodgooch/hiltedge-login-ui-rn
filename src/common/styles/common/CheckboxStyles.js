@@ -10,7 +10,7 @@ const BasicCheckBoxWithLabel = {
   },
   text: {
     fontSize: 13,
-    color: Constants.GRAY_2,
+    color: Constants.GRAY_1,
     fontFamily: Constants.FONTS.fontFamilyRegular
   },
   checkbox: {

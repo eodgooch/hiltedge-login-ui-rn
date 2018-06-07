@@ -29,7 +29,7 @@ export default class TermsAndConditionsScreenComponent extends Component {
     ))
   }
   renderInstructions (style) {
-    if (this.state.totalChecks < 3) {
+    if (this.state.totalChecks < 5) {
       return (
         <View style={style.instructionsContainer}>
           <Text style={style.instructionsText}>
@@ -41,9 +41,10 @@ export default class TermsAndConditionsScreenComponent extends Component {
     return <View style={style.instructionsSubShim} />
   }
   renderButton (style) {
-    if (this.state.totalChecks === 3) {
+    if (this.state.totalChecks === 5) {
       return (
         <View style={style.buttonContainer}>
+          <View style={style.shim} />
           <Text style={style.agreeText}>
             I have read, understood, and agree to the Terms of Use
           </Text>
@@ -83,6 +84,7 @@ export default class TermsAndConditionsScreenComponent extends Component {
             <View style={TermsAndConditionsScreenStyle.midSection}>
               {this.renderItems(TermsAndConditionsScreenStyle)}
             </View>
+            <View style={TermsAndConditionsScreenStyle.bigshim} />
             {this.renderButton(TermsAndConditionsScreenStyle)}
           </View>
         </View>
